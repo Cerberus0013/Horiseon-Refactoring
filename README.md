@@ -23,6 +23,7 @@ deleted classes in content section
 
 changed cost managment img  to self closing
 
+updated notes
 
 
 
@@ -38,5 +39,7 @@ tok all the redundant benfits CSS code and turned them into 3 easy to read css
 
 did the same in the content sectio
 
-consolidated content sections from 9 to 3
+consolidated content sections from 9 to 
+
+updated notes for reference
 

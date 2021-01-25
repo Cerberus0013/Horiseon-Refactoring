@@ -8,7 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
-
+/*header and nav/search buttons */
 
 header {
   padding: 20px;
@@ -53,6 +53,8 @@ p {
   font-size: 16px;
 }
 
+/*hero picture */
+
 .hero {
   height: 800px;
   width: 100%;
@@ -61,6 +63,8 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/*photo/main content orientation */
 
 .float-left {
   float: left;
@@ -72,12 +76,32 @@ p {
   margin-left: 25px;
 }
 
+/*main content articles */
+
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+.content div {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
 
+.content img {
+  max-height: 200px;
+}
+
+.content h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+/*side panel*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -105,24 +129,7 @@ p {
   max-width: 150px;
 }
 
-.content div {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.content img {
-  max-height: 200px;
-}
-
-.content h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
+/*footer and copy right*/
 footer {
   padding: 30px;
   clear: both;
