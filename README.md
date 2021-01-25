@@ -1,4 +1,7 @@
 # Code Refactor Starter Code
+This is an online Markting static website that need its HTML and CSS refactored. 
+
+
 
 HTML:
 
