@@ -4,6 +4,7 @@ HTML:
 
 changed title to "Horiseon Online Marketing"
 
+changed div to nav
 
 <div class="header">-- renamed div with header class to be more semantic to <header> tags
 
@@ -22,7 +23,12 @@ deleted classes in content section
 
 changed cost managment img  to self closing
 
+
+
+
 CSS
+
+swapped out Nav for div in all
 
 removed header class
 
