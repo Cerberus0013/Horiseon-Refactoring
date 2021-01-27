@@ -1,5 +1,8 @@
-# Code Refactor Starter Code
-This is an online Markting static website that need its HTML and CSS refactored. 
+Horiseon-Refactoring
+
+This is a code refactoring/debugging project, in order to better hone my refactoring skills and my ability to create semantic HTML code, as well as to cut out any redundant CSS code.  I have listed the changes I made below..
+
+
 
 
 
