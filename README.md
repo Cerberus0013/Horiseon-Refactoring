@@ -3,7 +3,9 @@ Horiseon-Refactoring
 This is a code refactoring/debugging project, in order to better hone my refactoring skills and my ability to create semantic HTML code, as well as to cut out any redundant CSS code.  
 
 
-This project is not neccassarily usable, just an example of a static website thats been refactored so that a develope  can easily follow the flow of the code 
+This project is not neccassarily usable, just an example of a static website thats been refactored so that a develope  can easily follow the flow of the code
+
+I also added a special @media style in CSS to make the "seo" in Horiseon to disappear when the screen is under 500px in width. (Just for fun) 
 
 I have listed the changes I made below..
 
